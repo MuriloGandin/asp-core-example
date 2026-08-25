@@ -1,6 +1,6 @@
 namespace gestaoBiblioteca;
 
-public class WeatherForecast
+public class Book
 {
     public DateOnly Date { get; set; }
 
