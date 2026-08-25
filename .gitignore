@@ -1,0 +1,23 @@
+## Pasta de compilação e artefatos do .NET
+**/bin/
+**/obj/
+
+## Configurações locais do ambiente de desenvolvimento (contém segredos e portas locais)
+**/appsettings.Development.json
+**/appsettings.Local.json
+
+## Arquivos do Visual Studio e VS Code
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Ferramentas de banco de data locais e migrations extras
+*.db
+*.db-journal
+
+## Pastas do sistema operacional
+.DS_Store
+Thumbs.db
